@@ -1,4 +1,4 @@
-// segregating customers based on how much amount they have spent on our stores.
+-- segregating customers based on how much amount they have spent on our stores.
 
 /* 
 top 10% spenders - Gold
